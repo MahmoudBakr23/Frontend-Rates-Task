@@ -13,4 +13,4 @@ Then run
 To start the live server
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Please make sure to start the live [backend server](https://github.com/MahmoudBakr23/Rates-Task-Rails-API) as well
+Please make sure to start the live [backend server](https://github.com/MahmoudBakr23/Rates-Task-Rails-API) as well!
